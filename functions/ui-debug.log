@@ -1,0 +1,1777 @@
+Web / API server started at localhost:4000
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}
+u [FetchError]: request to http://localhost:4400/emulators failed, reason: connect ECONNREFUSED ::1:4400
+    at ClientRequest.<anonymous> (/Users/rolandteslaru/.cache/firebase/emulators/ui-v1.7.0/server.bundle.js:326:16909)
+    at ClientRequest.emit (node:events:537:28)
+    at Socket.socketErrorListener (node:_http_client:465:9)
+    at Socket.emit (node:events:537:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED'
+}

@@ -1,0 +1,56 @@
+[
+    [
+        {
+            "id":"1" , 
+            "title": "Samsung Phone" , 
+            "price": 221, 
+            "image":"https://www.phonecopy.com/dynamic/phone_images/samsung_a52_5g.png" , 
+            "rating" : "2"},
+        {
+            "id":"2" , 
+            "title": "Appple air tags 4 pack" , 
+            "price": 110, 
+            "image":"https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP840/airtag.png" , 
+            "rating" : "5"},
+        {
+            "id":"3" , 
+            "title": "Apple Iphone 13 Pro (256 GB) Sierra Blue" , 
+            "price": 1100, 
+            "image":"https://cdn.shopify.com/s/files/1/0079/5695/5218/products/271052247_452763926398000_2847932991342364966_n_885f7086-9fae-4ef5-bd36-07700a6ea47b_800x.png?v=1641865206" , 
+            "rating" : "5"},
+        {
+            "id":"4" , 
+            "title": "Apple 11 Inch Ipad Pro with WIFI (2021 Model)" , 
+            "price": 878, 
+            "image":"https://m.media-amazon.com/images/I/81raq99wqRS._AC_SX679_.jpg" , 
+            "rating" : "5"}
+    ],
+    [
+        {
+            "id":"5" , 
+            "title": "2021 Apple MacBook Pro (14, Apple M1 Pro Chip mit 8-Core CPU und 14-Core GPU, 16 GB RAM, 512 GB SSD) - Space Gray" , 
+            "price": 2249, 
+            "image":"https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP858/mbp16-gray.png" , 
+            "rating" : "5"},
+        {
+            "id":"6" , 
+            "title": "Samsung Galaxy Book2 15.6 Inch notebook (Intel Core Proccesor i5, 16GB RAM, 512 GB SS , Windows 11 Home), Graphite" , 
+            "price": 931, 
+            "image":"https://images.samsung.com/is/image/samsung/p6pim/in/np550xed-ka4in/gallery/in-galaxy-book2-np550xed-417662-np550xed-ka4in-531547371?$2160_1728_PNG$" , 
+            "rating" : "4"},
+        {
+            "id":"7", 
+            "title": "ASUS BG248QG 60.96 cm (24 Inch) Gaming Mnitor 0.5 ms Response Time, up to 165 Hz Black" , 
+            "price": 179, 
+            "image":"https://www.asus.com/media/global/gallery/fvgm0w2yioxpiu0d_setting_xxx_0_90_end_2000.png" , 
+            "rating" : "3"}
+    ],
+    [
+        {
+            "id":"8", 
+            "title": "Asus ROG strix curved XG43VQ 43 inch ultra wide gaming monitor" , 
+            "price": 721.99, 
+            "image":"https://dlcdnwebimgs.asus.com/gain/FD1E2226-2D96-4634-B6CB-C3B95231CD50/w717/h525" , 
+            "rating" : "4"}
+    ]
+]

@@ -1,0 +1,30 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    /* background-color: rgb(234, 237, 237); */
+    height: max-content;
+}
+.checkout__title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.checkout__left{
+    width: 76%;
+    margin-right:20px;
+}
+.checkout__title{
+    text-align: left;
+    align-items: flex-start;
+}
+.checkout__list{
+    text-align: left;
+}
+li{
+    list-style: none;
+}
+.Checkout__deselect{
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+}
